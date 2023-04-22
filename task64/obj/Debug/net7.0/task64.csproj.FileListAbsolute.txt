@@ -1,0 +1,15 @@
+D:\hw8\task64\obj\Debug\net7.0\task64.csproj.AssemblyReference.cache
+D:\hw8\task64\obj\Debug\net7.0\task64.GeneratedMSBuildEditorConfig.editorconfig
+D:\hw8\task64\obj\Debug\net7.0\task64.AssemblyInfoInputs.cache
+D:\hw8\task64\obj\Debug\net7.0\task64.AssemblyInfo.cs
+D:\hw8\task64\obj\Debug\net7.0\task64.csproj.CoreCompileInputs.cache
+D:\hw8\task64\bin\Debug\net7.0\task64.exe
+D:\hw8\task64\bin\Debug\net7.0\task64.deps.json
+D:\hw8\task64\bin\Debug\net7.0\task64.runtimeconfig.json
+D:\hw8\task64\bin\Debug\net7.0\task64.dll
+D:\hw8\task64\bin\Debug\net7.0\task64.pdb
+D:\hw8\task64\obj\Debug\net7.0\task64.dll
+D:\hw8\task64\obj\Debug\net7.0\refint\task64.dll
+D:\hw8\task64\obj\Debug\net7.0\task64.pdb
+D:\hw8\task64\obj\Debug\net7.0\task64.genruntimeconfig.cache
+D:\hw8\task64\obj\Debug\net7.0\ref\task64.dll
