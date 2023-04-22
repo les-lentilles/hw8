@@ -1,0 +1,15 @@
+D:\hw8\task56\bin\Debug\net7.0\task56.exe
+D:\hw8\task56\bin\Debug\net7.0\task56.deps.json
+D:\hw8\task56\bin\Debug\net7.0\task56.runtimeconfig.json
+D:\hw8\task56\bin\Debug\net7.0\task56.dll
+D:\hw8\task56\bin\Debug\net7.0\task56.pdb
+D:\hw8\task56\obj\Debug\net7.0\task56.csproj.AssemblyReference.cache
+D:\hw8\task56\obj\Debug\net7.0\task56.GeneratedMSBuildEditorConfig.editorconfig
+D:\hw8\task56\obj\Debug\net7.0\task56.AssemblyInfoInputs.cache
+D:\hw8\task56\obj\Debug\net7.0\task56.AssemblyInfo.cs
+D:\hw8\task56\obj\Debug\net7.0\task56.csproj.CoreCompileInputs.cache
+D:\hw8\task56\obj\Debug\net7.0\task56.dll
+D:\hw8\task56\obj\Debug\net7.0\refint\task56.dll
+D:\hw8\task56\obj\Debug\net7.0\task56.pdb
+D:\hw8\task56\obj\Debug\net7.0\task56.genruntimeconfig.cache
+D:\hw8\task56\obj\Debug\net7.0\ref\task56.dll
