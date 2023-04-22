@@ -9,11 +9,11 @@ using static System.Console;
 
 Clear();
 Write("Введите M: ");
-int a1 = int.Parse(ReadLine());
+int m = int.Parse(ReadLine());
 Write("Введите N: ");
-int a2 = int.Parse(ReadLine());
+int n = int.Parse(ReadLine());
 
-WriteLine($"Функция Аккермана = {Akkerman(a1, a2)}");
+WriteLine($"Функция Аккермана = {Akkerman(m, n)}");
 
 int Akkerman(int m, int n)
 {
