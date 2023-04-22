@@ -11,10 +11,17 @@ int m = int.Parse(ReadLine());
 Write("Введите N: ");
 int n = int.Parse(ReadLine());
 
-WriteLine($"Cумма чисел = {SumNumbers(m, n)}");
+WriteLine($"Сумма элементов от {m} до {n} = {CountNaturalSum(m, n)}");
 
-int SumNumbers(int start, int end)
+int InputInt(string output)
 {
-    if (start == end) return start;
-    return (start + SumNumbers(start + 1, end));
+    Write(output);
+    return int.Parse(ReadLine());
+}
+
+int CountNaturalSum(int m, int n)
+{
+    if (m == n)
+        return n;
+    return n + CountNaturalSum(m, n - 1);
 }
