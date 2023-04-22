@@ -1,0 +1,15 @@
+D:\hw8\task68\bin\Debug\net7.0\task68.exe
+D:\hw8\task68\bin\Debug\net7.0\task68.deps.json
+D:\hw8\task68\bin\Debug\net7.0\task68.runtimeconfig.json
+D:\hw8\task68\bin\Debug\net7.0\task68.dll
+D:\hw8\task68\bin\Debug\net7.0\task68.pdb
+D:\hw8\task68\obj\Debug\net7.0\task68.csproj.AssemblyReference.cache
+D:\hw8\task68\obj\Debug\net7.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+D:\hw8\task68\obj\Debug\net7.0\task68.AssemblyInfoInputs.cache
+D:\hw8\task68\obj\Debug\net7.0\task68.AssemblyInfo.cs
+D:\hw8\task68\obj\Debug\net7.0\task68.csproj.CoreCompileInputs.cache
+D:\hw8\task68\obj\Debug\net7.0\task68.dll
+D:\hw8\task68\obj\Debug\net7.0\refint\task68.dll
+D:\hw8\task68\obj\Debug\net7.0\task68.pdb
+D:\hw8\task68\obj\Debug\net7.0\task68.genruntimeconfig.cache
+D:\hw8\task68\obj\Debug\net7.0\ref\task68.dll
